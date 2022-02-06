@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/comunity_react_app/static/css/main.cd5cb319.css",
+    "main.js": "/comunity_react_app/static/js/main.7360e26b.js",
+    "index.html": "/comunity_react_app/index.html",
+    "main.cd5cb319.css.map": "/comunity_react_app/static/css/main.cd5cb319.css.map",
+    "main.7360e26b.js.map": "/comunity_react_app/static/js/main.7360e26b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5cb319.css",
+    "static/js/main.7360e26b.js"
+  ]
+}
